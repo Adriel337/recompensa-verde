@@ -1,0 +1,7 @@
+{
+  "name": "recompensa-verde",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
